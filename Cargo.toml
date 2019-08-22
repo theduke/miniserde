@@ -21,4 +21,4 @@ serde_derive = "1.0"
 serde_json = "1.0"
 
 [workspace]
-members = ["derive"]
+members = ["derive", "mini-bench"]
